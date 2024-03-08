@@ -1,17 +1,43 @@
-Qui suis je ? : 
+## Qui suis je ? : 
 
 Je m'appelle Matys Deschamps, j'ai 19 ans et je suis actuellement en deuxième année de BUT informatique à Limoges.
-Je suis depuis plusieurs années passionné par l'informatique.
 
-Pendand ces années j'ai pu apprendre à programmer dans plusieurs languages tel que :
+Dans la vie j'ai deux passion qui m'anime : l'informatique et le théâtre. Oui je suis concient que cela n'a rien à voir x) 
 
-  - Python
-  - Java
-  - C / C++
-  - Bases de données (MySQL, Postgre..)
-  - HTML / CSS
-  - Javascript
-  - PHP
+J'ai tout d'abord commencer vraiment l'informatique et la programmation en première en prenant l'option NSI (Numérique et Sciences de l'Informatique)
+J'ai continué cette matière pendant 2 ans et me suis redirigé vers le BUT Informatique de Limoges qui a un parcourt qui permet de découvrir plusieurs facette de l'informatique.
+
+Pour le théatre, j'en fais depuis ma 5ème et j'ai continué jusqu'à aujourd'hui. J'ai même depuis deux ans commencé le théâtre d'improvisation qui me permet de redécouvrir le théâtre sous un nouvel angle.
+
+
+## Languages de programmation maitrisés :
+
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Languages de programmation peu utilisés :
+
+  - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+## Languages Web peu utilisés :
+
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Framework / Libraries peu utilisés : 
+
+  - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Bases de données utilisés / maîtrisés : 
+  - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 J'ai aussi appris à configurer un réseau ou une machine virtuelle.
 Je suis entrain d'apprendre à développer sur des framework tel Node.js ou Proxmox. J'apprend aussi le développement mobile avec Kotlin.
