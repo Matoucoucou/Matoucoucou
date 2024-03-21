@@ -5,10 +5,11 @@ Je m'appelle Matys Deschamps, j'ai 19 ans et je suis actuellement en deuxième a
 Dans la vie j'ai deux passion qui m'anime : l'informatique et le théâtre. Oui je suis concient que cela n'a rien à voir x) 
 
 J'ai tout d'abord commencer vraiment l'informatique et la programmation en première en prenant l'option NSI (Numérique et Sciences de l'Informatique)
-J'ai continué cette matière pendant 2 ans et me suis redirigé vers le BUT Informatique de Limoges qui a un parcourt qui permet de découvrir plusieurs facette de l'informatique.
+J'ai continué cette matière pendant 2 ans et me suis dirigé vers le BUT Informatique de Limoges qui a un parcourt qui permet de découvrir plusieurs facette de l'informatique.
 
 Pour le théatre, j'en fais depuis ma 5ème et j'ai continué jusqu'à aujourd'hui. J'ai même depuis deux ans commencé le théâtre d'improvisation qui me permet de redécouvrir le théâtre sous un nouvel angle.
 
+Voici les domaines en informatique que je maîtrises : 
 
 ## Languages de programmation maitrisés :
 
@@ -39,9 +40,9 @@ Pour le théatre, j'en fais depuis ma 5ème et j'ai continué jusqu'à aujourd'h
   - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-J'ai aussi appris à configurer un réseau ou une machine virtuelle.
-Je suis entrain d'apprendre à développer sur des framework tel Node.js ou Proxmox. J'apprend aussi le développement mobile avec Kotlin.
-Pendant mes deux ans j'ai également appris l'importance de la propreté d'un code et des tests.
+J'ai aussi quelque connaissance en réseaux et je commence à apprendre et m'habituer à l'utilisation de la virtualisation comme avec VirtualBox ou Docker.
+J'ai aussi certaines connaissances dans le développement mobiles (Kotlin, .NETMaui)
+Pendant ces deux annnées j'ai également appris l'importance de la propreté d'un code et des tests.
 
 Loisirs :
 
