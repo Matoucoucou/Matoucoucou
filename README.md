@@ -9,7 +9,7 @@ J'ai continué cette matière pendant 2 ans et me suis dirigé vers le BUT Infor
 
 Pour le théatre, j'en fais depuis ma 5ème et j'ai continué jusqu'à aujourd'hui. J'ai même depuis deux ans commencé le théâtre d'improvisation qui me permet de redécouvrir le théâtre sous un nouvel angle.
 
-Voici les domaines en informatique que je maîtrises : 
+Voici les domaines en informatique que je maîtrise : 
 
 ## Languages de programmation maitrisés :
 
