@@ -1,6 +1,6 @@
 ## Qui suis je ? : 
 
-Je m'appelle Matys Deschamps, j'ai 19 ans et je suis actuellement en deuxième année de BUT informatique à Limoges.
+Je m'appelle Matys Deschamps, j'ai 20 ans et je suis actuellement en deuxième année de BUT informatique à Limoges.
 
 Dans la vie j'ai deux passion qui m'anime : l'informatique et le théâtre. Oui je suis concient que cela n'a rien à voir x) 
 
